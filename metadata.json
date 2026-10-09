@@ -1,0 +1,6 @@
+{
+  "name": "TrustFirstCarpool",
+  "description": "AI-Powered Carpooling That People Will Actually Use. Smart route and timing matching, fair cost-splitting calculator, and verified trust indicators for daily commuters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
